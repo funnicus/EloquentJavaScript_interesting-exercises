@@ -118,5 +118,3 @@ var roads = [
     }
     return {direction: route[0], memory: route.slice(1)};
   }
-
-  module.exports;
